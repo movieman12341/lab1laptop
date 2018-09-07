@@ -1,0 +1,4 @@
+﻿  Source.c
+c:\users\keybo\desktop\lab1laptop\lab1laptop\source.c(98): warning C4033: 'removeDups' must return a value
+c:\users\keybo\desktop\lab1laptop\lab1laptop\source.c(137): warning C4716: 'removeDups': must return a value
+  lab1Laptop.vcxproj -> C:\Users\keybo\Desktop\lab1Laptop\Debug\lab1Laptop.exe
